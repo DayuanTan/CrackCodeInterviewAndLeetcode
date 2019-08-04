@@ -1,11 +1,11 @@
 # CrackCodeInterviewAndLeetcode
 
-The book is available [here](./book/Cracking%20the%20Coding%20Interview%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf).
+The book PDF is available [here](./book/Cracking%20the%20Coding%20Interview%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf). Please buy it from Amazon or other bookstores if you like it.
 
 ------
 I split this book into 2 parts. 
 
-Part 1 includes:
+**Part 1** includes:
 - Introduction
 - I.    The interview process
 - II.   Behind the scenes
@@ -16,7 +16,7 @@ Part 1 includes:
 - VII.  Technical questions
 - VIII. The offer and beyond
 
-Part 2 includes:
+**Part 2** includes:
 - IX.   Interview questions (IQs)
   -  **IQs sub-Part 1: Data structures**
   -  Chap 1: Array and Strings
@@ -43,3 +43,5 @@ Part 2 includes:
 - XI.   Advanced Topics
 - XII.  Code Library  
 - XIII. Hints
+
+-----
