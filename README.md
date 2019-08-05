@@ -57,6 +57,10 @@ You **should** do your best to **talk out loud** throughout the problem and **ex
     
 - Your interviewer might jump in sometimes to help you; let them. It's normal and doesn't really mean that you're doing poorly. (That said, of course not needing hints is even better.)
 
+Need to do few hard problems, so can be good at developing optimation problems.
+
+Basic data structure and algorithm knowledge is important.
+
 ### 1.2 Assessment
 
 Rather, your interviewer will make an **assessment of your performanc**e, usually based on the following:
