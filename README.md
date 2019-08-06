@@ -155,3 +155,9 @@ A list of the absolute, **must-have** knowledge:
 For each of these topics, make sure you understand how to use and implement them and, where applicable, the space and time complexity.
 
 In particular, **hash tables** are an extremely important topic. Make sure you are very comfortable with this data structure.
+
+#### 7.2.2 Powers of 2 Table
+
+The table below is useful for many questions involving **scalability** or any sort of **memory limitation**. Memorizing this table isn't strictly required, but it can be useful. You should at least be comfortable deriving it.
+
+<img src="./img/powersof2.png">
