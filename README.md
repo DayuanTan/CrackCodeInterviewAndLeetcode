@@ -143,6 +143,7 @@ A list of the absolute, **must-have** knowledge:
 
 |Data Structures|Algorithms|Concepts|
 |-|-|-|
+||
 |Linked Lists|Breadth-First Search|Bit Manipunation|
 |Trees, Tries & Graphs|Depth-First Search|Memory (Stack vs. Heap)|
 |Stacks & Queues|Binary Search|Recursion|
