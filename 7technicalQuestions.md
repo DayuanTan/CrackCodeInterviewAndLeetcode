@@ -46,7 +46,9 @@ The table below is useful for many questions involving **scalability** or any so
 
 <img src="./img/powersof2.png">
 
-### 7.2.3 Walking throught a problem
+------
+
+## 7.3 Walking throught a problem
 
 (这一节还是很吃惊的，没想到这个步骤是这样！一定要记住！)
 
@@ -75,16 +77,16 @@ The table below is useful for many questions involving **scalability** or any so
    - Weird looking code. Double check that line of code that says x = length - 2. Investigate that for loop that starts at i = 1. While you undoubtedly did this for a reason, it's really easy to get it just slightly wrong.
    - Hot spots. You've coded long enough to know what things are likely to cause problems. Base cases in recursive code. Integer division. Null nodes in binary trees. The start and end of iteration through a linked list. Double check that stuff.
    - Small test cases. This is the first time we use an actual, specific test case to test the code. Don't use that nice, big 8-element array from the algorithm part. Instead, use a 3 or 4 element array. 1t'lIlikely discover the same bugs, but it will be much faster to do so.
-5. Special cases. Test your code against null or single element values, the extreme cases, and other special cases.
+   - Special cases. Test your code against null or single element values, the extreme cases, and other special cases.
 8. **Keep talking!**
 
-### 7.2.4 Optimize & Solve Technique #1: Look for BUD
+## 7.4 Optimize & Solve Technique #1: Look for BUD
 
-### 7.2.5 Optimize & Solve Technique #2: DIY (Do It Yourself)
+## 7.5 Optimize & Solve Technique #2: DIY (Do It Yourself)
 
-### 7.2.6 Optimize & Solve Technique #2: DIY (Do It Yourself)
+## 7.6 Optimize & Solve Technique #2: DIY (Do It Yourself)
 
-### 7.2.7 Optimize & Solve Technique #2: DIY (Do It Yourself)
+## 7.7 Optimize & Solve Technique #2: DIY (Do It Yourself)
 
-### 7.2.8 Optimize & Solve Technique #5: Data Structure Brainstorm
+## 7.8 Optimize & Solve Technique #5: Data Structure Brainstorm
 
