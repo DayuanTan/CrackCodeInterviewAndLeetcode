@@ -187,6 +187,8 @@ A list of the absolute, **must-have** knowledge:
 **IQs sub-Part 1: Data structures**
   -  [Chap 1: Array and Strings](./IQs/9.1arraystring.md)
      -  Hash Table: 1.1 Is Unique.
+     -  ArrayList & Resizable Arrays
+     -  
   -  Chap 2: Linked Lists
   -  Chap 3: Stacks and Quenes
   -  Chap 4: Trees and Graphs
