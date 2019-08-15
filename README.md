@@ -142,7 +142,7 @@ A list of the absolute, **must-have** knowledge:
 |Trees, Tries & Graphs|Depth-First Search|Memory (Stack vs. Heap)|
 |Stacks & Queues|Binary Search|Recursion|
 |Heaps|Merge Sort|Dynamic Programming|
-|Vectors / ArrayLists|Quick sort|Big O Time & Space|
+|Vectors / ArrayLists|[Quick sort](./7.2.1must-have-knowledge)|Big O Time & Space|
 |**Hash Tables**|||
 ||
 
