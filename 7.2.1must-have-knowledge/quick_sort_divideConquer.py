@@ -1,4 +1,4 @@
-# quick sort
+# quick sort (divide and conquer)
 # Running time: avg O(nlogn), worst O(n^2)
 
 import random
