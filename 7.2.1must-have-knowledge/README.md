@@ -46,3 +46,8 @@ It only takes O(log n) to store it at best case.
 Partition and then swap, so we don't need seperate array *less* and *more* (in first method) to store them.
 
 Refer to [quick_sort_inPlace.py](quick_sort_inPlace.py)
+
+Reference:
+
+1. Vedio from author. It has few problem. https://www.youtube.com/watch?v=SLauY6PpjW4
+2. Vedio from Derek Banas. https://www.youtube.com/watch?v=mN5ib1XasSA
