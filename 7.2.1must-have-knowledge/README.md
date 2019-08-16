@@ -51,3 +51,7 @@ Reference:
 
 1. Vedio from author. It has few problem. https://www.youtube.com/watch?v=SLauY6PpjW4
 2. Vedio from Derek Banas. https://www.youtube.com/watch?v=mN5ib1XasSA
+
+## Third, follow Introduction to Algorithm:
+
+![](quicksort_IntroAlg.png)
