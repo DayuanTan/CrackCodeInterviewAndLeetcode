@@ -50,7 +50,7 @@ Refer to [quick_sort_inPlace.py](quick_sort_inPlace.py)
 Reference:
 
 1. Vedio from author. It has few problem. https://www.youtube.com/watch?v=SLauY6PpjW4
-2. Vedio from Derek Banas. https://www.youtube.com/watch?v=mN5ib1XasSA
+2. Vedio from Derek Banas. https://www.youtube.com/watch?v=mN5ib1XasSA (Also not perfect, it changes the pivot frequently after 8:24. It uses the left pointer or right pointer as pivot which is confused.)
 
 ## Third, follow Introduction to Algorithm:
 
