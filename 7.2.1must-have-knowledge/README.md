@@ -52,7 +52,7 @@ Reference:
 1. Vedio from author. It has few problem. https://www.youtube.com/watch?v=SLauY6PpjW4
 2. Vedio from Derek Banas. https://www.youtube.com/watch?v=mN5ib1XasSA (Also not perfect, it changes the pivot frequently after 8:24. It uses the left pointer or right pointer as pivot which is confused.)
 
-## Third, follow Introduction to Algorithm:
+## Third, follow "*Introduction to Algorithm*":
 
 <img src="quicksort_IntroAlg.png" width=300/>
 
