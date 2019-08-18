@@ -54,4 +54,6 @@ Reference:
 
 ## Third, follow Introduction to Algorithm:
 
-![](quicksort_IntroAlg.png)
+<img src="quicksort_IntroAlg.png" width=300/>
+
+
