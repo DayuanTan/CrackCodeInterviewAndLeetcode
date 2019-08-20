@@ -62,4 +62,6 @@ In order to sort an array, the first time to call Quicksort() should be `quickso
 
 `x = A[r]` gets the pivot value.
 
+In the for loop we only need to deal with the situation when `A[j]<=x`. So this version is simplest in code.
+
 <img src="quicksort_partition.png" />
