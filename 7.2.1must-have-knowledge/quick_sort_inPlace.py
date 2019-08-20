@@ -30,7 +30,7 @@ def partition(array, left_index, right_index, pivot_value):
     return left_index
 
 
-# quick sort divide and conquer 
+# quick sort 
 def quicksort(init_array, left=0, right=None):
     if right == None:
         right = len(init_array) - 1
