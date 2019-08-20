@@ -43,7 +43,7 @@ It takes $$\Omega (n)$$ place to store it.
 
 It only takes O(log n) to store it at best case.
   
-Partition and then swap, so we don't need seperate array *less* and *more* (in first method) to store them.
+Partition and then swap, so we don't need seperate arrays *less* and *more* (in first method) to store them, which helps to save space.
 
 Refer to [quick_sort_inPlace.py](quick_sort_inPlace.py)
 
@@ -54,6 +54,12 @@ Reference:
 
 ## Third, follow "*Introduction to Algorithm*":
 
+We always pick the last element as the pivot. The array is A[p..r]. `p` is the first element of the array which you want to sort, while `r` is the last one.
+
 <img src="quicksort_IntroAlg.png" width=300/>
 
+In order to sort an array, the first time to call Quicksort() should be `quicksort(A, 1, A.length)`. 
 
+`x = A[r]` gets the pivot value.
+
+<img src="quicksort_partition.png" />
