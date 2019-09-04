@@ -1,6 +1,8 @@
 # Notes (Part 2):
 
-([Go to part 1](./part1.md)
+([Go to part 1,](./part1.md)
+
+[Go to Leetcode,](./lc.md)
 
 [Go back to ReadMe](./README.md))
 
@@ -38,6 +40,8 @@
 
 ------
 
-([Go to part 1](./part1.md)
+([Go to part 1,](./part1.md)
+
+[Go to Leetcode,](./lc.md)
 
 [Go back to ReadMe](./README.md))

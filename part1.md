@@ -1,6 +1,8 @@
 # Notes (Part 1):
 
-([Go to part 2](./part2.md)
+([Go to part 2,](./part2.md)
+
+[Go to Leetcode,](./lc.md)
 
 [Go back to ReadMe](./README.md))
 
@@ -134,6 +136,8 @@ A list of the absolute, **must-have** knowledge:
 
 ------
 
-([Go to part 2](./part2.md)
+([Go to part 2,](./part2.md)
+
+[Go to Leetcode,](./lc.md)
 
 [Go back to ReadMe](./README.md))
