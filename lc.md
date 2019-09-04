@@ -6,7 +6,10 @@
 
 [Go back to ReadMe](./README.md))
 
-001 tow sum [Brute force,](./leetcode/001twosum.py) [Two pass hash table]
+|Qs|My solutions|
+|:-|:-|
+|001 tow sum |[Brute force,](./leetcode/001twosum.py) [Two pass hash table]|
+|||
 
 
 ([Go to part 1,](./part1.md)
