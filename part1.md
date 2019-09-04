@@ -1,5 +1,7 @@
 # Notes (Part 1):
+
 ([Go to part 2](./part2.md)
+
 [Go back to ReadMe](./README.md))
 
 
@@ -128,3 +130,10 @@ A list of the absolute, **must-have** knowledge:
 
 ## VIII. The offer and beyond
 
+
+
+------
+
+([Go to part 2](./part2.md)
+
+[Go back to ReadMe](./README.md))

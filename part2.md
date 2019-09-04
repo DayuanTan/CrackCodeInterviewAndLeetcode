@@ -1,5 +1,7 @@
 # Notes (Part 2):
+
 ([Go to part 1](./part1.md)
+
 [Go back to ReadMe](./README.md))
 
 
@@ -32,3 +34,10 @@
 **IQs sub-Part 4: Additional Review Problems**
   -  Chap 16: Moderate
   -  CHap 17: Hard
+
+
+------
+
+([Go to part 1](./part1.md)
+
+[Go back to ReadMe](./README.md))
