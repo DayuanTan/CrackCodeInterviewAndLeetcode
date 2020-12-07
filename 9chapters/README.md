@@ -10,12 +10,24 @@ This is my notes for the 9 chapters Algorithms course 2020. Mainly contains the 
 
 Class notes are inside Notability. 
 
-Chapter_2._真实面试案例分析上
+第二章【互动】真实面试案例分析（上）与面试评分标准
 
 [200. Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/description), 
 [sol](https://www.jiuzhang.com/solution/longest-palindromic-substring/)
 
 [667. Longest Palindromic Subsequence](https://www.lintcode.com/problem/longest-palindromic-subsequence/description)
+
+[第三章【互动】真实面试案例分析（下）与80%求职者会踩坑的基础知识](chapter3.md)
+
+strStr
+
+Hash Function
+
+strStr II
+
+Greedy Alg
+
+Gas Station
 
 
 ([Go to book part 1,](./part1.md)
