@@ -10,7 +10,7 @@ Ref: Official [github] of the book. (https://github.com/DayuanTan/CtCI-6th-Editi
 
 For the 9 chapters Alg course: [check this](9chapters). 
 
-In addition, a good coding interview notes [Coding Interview University](https://github.com/DayuanTan/coding-interview-university)
+In addition, a good coding interview notes [Coding Interview University](https://github.com/DayuanTan/coding-interview-university) and a respository [Top Javaer 成神之路](https://github.com/DayuanTan/toBeTopJavaer).
 
 ------
 I split this book into 2 parts. 
