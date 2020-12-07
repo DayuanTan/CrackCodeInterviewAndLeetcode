@@ -12,12 +12,20 @@ Class notes are inside Notability.
 
 第二章【互动】真实面试案例分析（上）与面试评分标准
 
+- Part I Longest palindromic substring
+- Part 2 双指针 与 DP 解法.
+- Part 3 面试评分体系 and Coding Quality. 
+
 [200. Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/description), 
 [sol](https://www.jiuzhang.com/solution/longest-palindromic-substring/)
 
 [667. Longest Palindromic Subsequence](https://www.lintcode.com/problem/longest-palindromic-subsequence/description)
 
 [第三章【互动】真实面试案例分析（下）与80%求职者会踩坑的基础知识](files/chapter3.md)
+
+- Part I strStr and Rabin-Karp. 
+- Part 2 String 的坑.
+- Part 3 Greedy Alg.
 
 strStr
 
