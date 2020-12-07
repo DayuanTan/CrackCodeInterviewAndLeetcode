@@ -17,7 +17,7 @@ Class notes are inside Notability.
 
 [667. Longest Palindromic Subsequence](https://www.lintcode.com/problem/longest-palindromic-subsequence/description)
 
-[第三章【互动】真实面试案例分析（下）与80%求职者会踩坑的基础知识](chapter3.md)
+[第三章【互动】真实面试案例分析（下）与80%求职者会踩坑的基础知识](files/chapter3.md)
 
 strStr
 
