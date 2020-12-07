@@ -8,7 +8,7 @@
 
 This is my notes for the 9 chapters Algorithms course 2020. Mainly contains the exercise problesm and code and solutinos.
 
-Class notes are inside Notability. 
+Class notes are inside Notability. Recorded video are also provided. 
 
 第二章【互动】真实面试案例分析（上）与面试评分标准
 
