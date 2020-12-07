@@ -1,10 +1,16 @@
 # CrackCodeInterviewAndLeetcode
 
-Welcome! This is Dayuan Tan's notes about the book "Crack the code interview, 6th edition".
+Welcome! This is Dayuan Tan's notes about the book "Crack the code interview, 6th edition". And 9 chapters Algorithm course 2020.  
+
+For the book:
 
 The book PDF is available [here](./book/Cracking%20the%20Coding%20Interview%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf). Please buy it from Amazon or other bookstores if you like it.
 
-Ref: Official [github](https://github.com/DayuanTan/CtCI-6th-Edition).
+Ref: Official [github] of the book. (https://github.com/DayuanTan/CtCI-6th-Edition).
+
+For the 9 chapters Alg course: [check this](9chapters). 
+
+In addition, a good coding interview notes [Coding Interview University](https://github.com/DayuanTan/coding-interview-university)
 
 ------
 I split this book into 2 parts. 
