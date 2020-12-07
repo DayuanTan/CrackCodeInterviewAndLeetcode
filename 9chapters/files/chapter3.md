@@ -1,3 +1,9 @@
+# Part I strStr and Rabin-Karp. 
+# Part 2 String 的坑.
+# Part 3 Greedy Alg.
+
+---
+
 # String
 大家会发现，在字符串问题中，我们用到了一些语言内置的函数。同时在字符串问题中也有很多常见的问题，接下来我们就来看一下这部分必须要知道的基础知识。
 
